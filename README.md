@@ -42,6 +42,7 @@ This project follows a 3-tier architecture:
 1. Presentation Layer: Application Load Balancer handles incoming user traffic.
 2. Application Layer: EC2 instances in private subnets run the web application.
 3. Data Layer: Amazon RDS stores relational data, while S3 is used for static files, backups, or exported logs.
+   - ![AWS 3-Tier Architecture](./architecture-diagram.png)
 
 ## AWS Services Used
 
