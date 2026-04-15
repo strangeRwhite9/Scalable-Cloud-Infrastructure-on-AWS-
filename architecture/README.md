@@ -4,6 +4,7 @@ Add your architecture images in this folder using these exact names:
 
 - ![AWS 3-Tier Architecture](./architecture-diagram.png)
 - `request-flow.png`
+  ![request flow](./request-flow.png)
 
 Suggested exports:
 
