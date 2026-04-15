@@ -1,9 +1,8 @@
 # Architecture Assets
 
 Add your architecture images in this folder using these exact names:
-<a href="https://app.eraser.io/workspace/mKxVubWHhg0SCqoWzhvZ?elements=mNk7FpFdoi-BHeHXbTbuOg">View on Eraser<br /><img src="https://app.eraser.io/workspace/mKxVubWHhg0SCqoWzhvZ/preview?elements=mNk7FpFdoi-BHeHXbTbuOg&type=embed" /></a>
 
-- `architecture-diagram.png`
+- ![AWS 3-Tier Architecture](./architecture-diagram.png)
 - `request-flow.png`
 
 Suggested exports:
